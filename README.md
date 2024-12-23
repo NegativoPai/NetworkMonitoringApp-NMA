@@ -44,7 +44,7 @@ Backend: Node.js (Express) ou Python (FastAPI).
 Banco de Dados: PostgreSQL e MongoDB.
 Bibliotecas: Scapy para análise de pacotes, D3.js para gráficos interativos.
 Infraestrutura: Docker para deploy, Ansible para configuração e gerenciamento.
-Esse projeto será bem relevante para o mercado e extremamente enriquecedor para o aprendizado. Se quiser podemos começar com uma parte, como o backend ou a interface mobile, e desenvolver aos poucos!
+Esse projeto será bem relevante para o mercado e extremamente enriquecedor para o aprendizado.
 
 
 
