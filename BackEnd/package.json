@@ -10,7 +10,7 @@
     "BackEnd": "file:",
     "express": "^4.17.1",
     "js2xmlparser": "^5.0.0",
-    "mongoose": "^8.9.2",
+    "mongoose": "^7.0.0",
     "pg": "^8.5.1"
   }
 }
