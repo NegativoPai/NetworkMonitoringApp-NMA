@@ -1,0 +1,14 @@
+CREATE TABLE dispositivos (
+    id SERIAL PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    endereco_ip VARCHAR(50) NOT NULL,
+    status VARCHAR(20) NOT NULL,
+    last_updates TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE logs_rede (
+    id SERIAL PRIMARY KEY,
+    mensagem TEXT NOT NULL,
+    nivel VARCHAR(20) NOT NULL,
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
